@@ -10,5 +10,3 @@ $(function() {
 
   });
 });
-
-console.log(js file is working);
